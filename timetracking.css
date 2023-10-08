@@ -1,0 +1,206 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 150px;
+
+    background-color: rgb(61, 9, 249)
+
+    ;
+    padding-top: 20px;
+    padding: right 0.1px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+.rep{
+    font-size: small;    
+}
+.card1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+   padding: 2px 16px;
+   padding-bottom: 20px;
+   padding-top: 20px;
+   line-height: 0.5;
+   background-color:  hsl(235, 46%, 20%);
+   font-style: inherit;
+   border-radius: 10px;
+
+}
+.card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.wor{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastw{
+    color: hsl(236, 100%, 87%);
+}
+.hrt{
+    color: white;
+
+}
+.sm{
+    line-height: 2px;
+}
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.pla{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastwa{
+    color: hsl(236, 100%, 87%);
+}
+.hrta{
+    color: white;
+
+}
+.sma{
+    line-height: 2px;
+}
+.card4{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.pla{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastwb{
+    color: hsl(236, 100%, 87%);
+}
+.hrtb{
+    color: white;
+
+}
+.smab{
+    line-height: 2px;
+}.card5
+  {  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.exer{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastwc{
+    color: hsl(236, 100%, 87%);
+}
+.hrtc{
+    color: white;
+
+}
+.smac{
+    line-height: 2px;
+}.card6{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.pla{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastwd{
+    color: hsl(236, 100%, 87%);
+}
+.hrtd{
+    color: white;
+
+}
+.smad{
+    line-height: 2px;
+}.card7{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    width: 120px;
+    height: 100px;
+    padding: 2px 16px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color:  hsl(235, 46%, 20%);
+    line-height: 6px;
+    border-radius: 10px;
+}
+.pla{
+    color:white;
+    word-spacing: 50px;
+
+}
+.lastwe{
+    color: hsl(236, 100%, 87%);
+}
+.hrte{
+    color: white;
+
+}
+.smae{
+    line-height: 2px;
+}
+.lin1{
+    position: relative;
+    top: -50px;
+}
+.cardbl1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    padding: 2px 16px;
+    width: 120px;
+    height: 100px;
+    background-color:  hsl(15, 100%, 70%);
+    border-radius: 10px;
+
+}
+.lib{
+    background-color: hsl(195, 74%, 62%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    padding: 2px 16px;
+    width: 120px;
+    height: 100px;
+    border-radius: 10px;
+}
